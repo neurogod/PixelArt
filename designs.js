@@ -1,4 +1,4 @@
-	'use strict';
+
 	const $colorPicker = document.getElementById("colorPicker");
 	const $sizePicker  = document.getElementById("sizePicker");
 	const $table = document.getElementById("pixel_canvas");
