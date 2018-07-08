@@ -1,3 +1,3 @@
 # PixelArt
 PixelArt
-https://github.com/neurogod/PixelArt
+https://neurogod.github.io/
